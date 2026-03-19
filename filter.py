@@ -4,7 +4,8 @@ KEYWORDS = [
     "any tool",
     "how do you",
     "need help",
-    "best way to"
+    "best way to",
+    "opinions",
 ]
 
 def is_lead(text):
